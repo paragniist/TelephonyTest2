@@ -22,7 +22,7 @@ public class GMailSender extends javax.mail.Authenticator {
     private String user;   
     private String password;   
     private Session session;   
-//hello parag
+//hello parag hii bro
     static {   
         Security.addProvider(new JSSEProvider());   
     }  
